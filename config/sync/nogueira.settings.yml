@@ -1,0 +1,21 @@
+favicon:
+  mimetype: image/vnd.microsoft.icon
+  path: ''
+  url: 'http://nogueira.dev/themes/custom/nogueira/favicon.ico'
+  use_default: 1
+schemas:
+  bootstrap: 8000
+  nogueira: 8000
+features:
+  comment_user_picture: true
+  comment_user_verification: true
+  favicon: 1
+  node_user_picture: 1
+logo:
+  path: ''
+  url: ''
+  use_default: 1
+navbar_position: static-top
+fluid_container: 1
+table_responsive: '-1'
+table: ''

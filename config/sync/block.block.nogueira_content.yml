@@ -1,0 +1,22 @@
+uuid: e8eeef4a-b2cc-4cf6-a8ec-63f23463e8de
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - nogueira
+_core:
+  default_config_hash: 9EoWV2Lot6FVSr50t4hoKgiz1LIXYWNG-IIPYsWxBqo
+id: nogueira_content
+theme: nogueira
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

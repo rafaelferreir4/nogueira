@@ -1,0 +1,20 @@
+uuid: db363ee5-162a-4c40-b90a-8c30239e20f1
+langcode: en
+status: true
+dependencies:
+  theme:
+    - nogueira
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: nogueira_page_title
+theme: nogueira
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }
