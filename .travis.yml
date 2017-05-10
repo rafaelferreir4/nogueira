@@ -32,7 +32,7 @@ install:
 
   # Download Drupal
   - cd ..
-  - drush --version
+  - drush cc all
   - drush dl drupal-8 --drupal-project-rename=nogueira
   - mv decoupled_auth drupal/modules
   - cd drupal
