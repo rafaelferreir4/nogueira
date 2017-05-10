@@ -1,0 +1,14 @@
+uuid: b0bb36e1-95e3-469f-be3b-37111abc5789
+name: Nogueira
+mail: rafael@nogueira.co
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
